@@ -39,7 +39,6 @@
   <!-- Use test_depend for packages you need only for testing: -->
   <!--   <test_depend>gtest</test_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
-  <run_depend>hector_compressed_map_transport</run_depend>
   <run_depend>hector_geotiff</run_depend>
   <run_depend>hector_geotiff_launch</run_depend>
   <run_depend>hector_geotiff_plugins</run_depend>
